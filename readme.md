@@ -21,7 +21,8 @@ I reccomend running the program first, then looking into [index.mjs](./index.mjs
 
 ## Checking how VSCode deals with its autocomplete
 
-In order to do this, you'll need to open the [classes.js](./classes.js) file and fiddle around.
+In order to do this, you'll need to open the [classes.mjs](./classes.mjs)![Uploading Tela Login.png…]()
+ file and fiddle around.
 
 I reccomend using <kbd>CTRL + SPACE</kbd> often to activate autocomplete while editing the source code.
 
